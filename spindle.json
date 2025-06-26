@@ -4,6 +4,10 @@
     "hello-world": {
       "files": ["hello.py"],
       "dependencies": []
+    },
+    "goodbye-world": {
+      "files": ["goodbye.py"],
+      "dependencies": ["hello-world"]
     }
   }
 }
