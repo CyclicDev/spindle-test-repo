@@ -1,0 +1,9 @@
+{
+  "name": "spindle-test-components",
+  "components": {
+    "hello-world": {
+      "files": ["hello.py"],
+      "dependencies": []
+    }
+  }
+}
